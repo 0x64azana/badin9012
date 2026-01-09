@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Badin
+# 👋 Hi, I’m David
 🌟 Cybersecurity Student | Aspiring Pentester | CTF Enthusiast  
 
 ## 🚀 About Me
@@ -13,7 +13,7 @@
 
 ## 📫 Contact Me
 - 📧 email@example.com
-- 🌐 [My Website](https://badin9012.github.io)
+- 🌐 [My Website](https://0x64azana.github.io)
 
 ## 📂 Projects
 ➡️ Check out my repositories below for CTF write-ups, tools, and labs!
