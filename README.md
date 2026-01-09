@@ -12,8 +12,8 @@
 - Python & Bash scripting
 
 ## 📫 Contact Me
-- 📧 email@example.com
-- 🌐 [My Website](https://0x64azana.github.io)
+- 📧 dzanab1@wgu.edu
+- 🌐 [My Site](https://0x64azana.github.io)
 
 ## 📂 Projects
 ➡️ Check out my repositories below for CTF write-ups, tools, and labs!
